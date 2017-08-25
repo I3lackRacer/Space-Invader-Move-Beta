@@ -1,0 +1,32 @@
+---Alpha---
+1.0 Erstellung des Versionssystem
+1.1 Auffang ifs für Den Levelhandler erstellt
+1.2 Autosafe bei ESC ersellt
+1.3 Schild verschwinden Gefixt
+1.4 LVL loader gefixt
+1.5 Hit rötte verbessert
+2.0 Größenverhältnus von 4 zu 9 auf 16 zu 9 gesetzt
+2.1 Skiptneustrukturierung
+2.2 Verwerfung und entfernung des live/give damage systems
+2.3 Bugfix Bulletspray
+2.4 Einführung von Rocketdust
+2.5 Formveränderung Asteroiden von Viereckig zu Rund
+2.6 Unnötige Berechnungen in der debuginfo.class rausgenommen
+2.7 Beeing Targed System gefixt
+2.8 Debug Info erweitert um Beeing targed Kasten
+2.9 Spawn aller Objects in der Spawn.class außerhalb des Bildes gesetzt
+3.0 Asteroiden Texturen implementiert
+3.1 Icon eingefügt
+3.2 Einführung von der Stehbleib bestraftung (Spammer)
+3.3 GameStart.class eingeführt
+3.4 Call.class überarbeitet
+3.5 Bugfix: Schild first reder tick
+3.6 Bugfix: Schildüberlastung
+3.7 Vereinfachung der abstarct Gamobject.class
+3.8 Rocketdust bewegt sich
+3.9 Bugfix: IllegalArgumentException in der ImageHolder.class
+4.0 Einführung von Smartgegner
+4.1 Bugfix: Smartgegner
+4.2 Redhit angepasst
+4.3 Verbesserung des Menusystems
+4.4 Einführung des CURRENTMENU enum
